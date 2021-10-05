@@ -1,6 +1,7 @@
-﻿Complex Systems Homework 2 
+# **Complex Systems Homework 2** 
 
-Almudena Chapa, Dani Lazaro, Jon Ander Martin April 12, 2021 
+### *Almudena Chapa, Dani Lazaro, Jon Ander Martin*
+#### *April 12, 2021*
 
 In this paper we will explore Thomas Schelling's model of segregation. In this model there is a certain number of agents, divided into 2 classes. The agents are happy if they have enough neighbors of their same class. The agents relocate using different policies, always looking for a spot where they are happier. In the following sections, we will present different relocation policies and study how each of them affects the distribution of the agents. 
 
